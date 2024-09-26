@@ -10,6 +10,11 @@
     background-color: #fff;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+    
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -42,6 +47,7 @@
     margin-top: 25px;
     margin-bottom: 40px;
 }
+
 
 /* ----------------------------------------Special paddings/margins/text */
 
